@@ -17,14 +17,21 @@ h1 {
 }
 
 .bold-paragraph {
-  color: #ff87a6;
+  color: dodgerblue;
 }
 
 #bold {
-  background-color: #ff87a6;
+  background-color: dodgerblue;
   color: white;
 }
 
 img {
-  width: 100%;
+  width: 75%;
+}
+
+cascade-mountain.jpeg {
+  position: absolute;
+}
+
+#map { height: 180px; 
 }
